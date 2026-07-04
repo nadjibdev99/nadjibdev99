@@ -1,6 +1,7 @@
 # Hi there, I'm Nadjib 👋
 
-### 🚀 CS Student at ESTIN | Frontend Developer & UI/UX Designer AND CURRENTLY LEARNING BACKEND DEV
+### 🚀 CS Student at ESTIN | Frontend Developer & UI/UX Designer
+  CURRENTLY LEARNING BACKEND DEV
 
 A passionate Computer Science student from **ESTIN**, specializing in crafting beautiful, responsive user interfaces and seamless user experiences. Currently expanding my horizons into full-stack development.
 
