@@ -39,5 +39,3 @@ A passionate Computer Science student from **ESTIN**, specializing in crafting b
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nadjib_kn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadjibdev99@gmail.com)
 ---
-
-> 💡 *“Design is not just what it looks like and feels like. Design is how it works.”*
